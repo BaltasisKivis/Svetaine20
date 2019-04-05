@@ -1,8 +1,18 @@
-$red: #ff3535;
+$red: #BADA55;
 
 h1 {
     color: $red;
     span {
         color: rgba($red, 0.7);
+    }
+}
+
+.container {
+    background: lightblue;
+    padding: 100px;
+    .block {
+        width: 200px;
+        height: 200px;
+        background: $red;
     }
 }

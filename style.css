@@ -1,4 +1,12 @@
 h1 {
-  color: #ff3535; }
+  color: #BADA55; }
   h1 span {
-    color: rgba(255, 53, 53, 0.7); }
+    color: rgba(186, 218, 85, 0.7); }
+
+.container {
+  background: lightblue;
+  padding: 100px; }
+  .container .block {
+    width: 200px;
+    height: 200px;
+    background: #BADA55; }
